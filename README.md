@@ -42,4 +42,8 @@ The **Meeting Summarizer Automation** is a productivity tool designed to streaml
 
 This tool is especially beneficial for small businesses where time and resources are limited. It helps businesses stay organized, reduce the time spent on administrative tasks, and ensure critical information is easily accessible and shared with the appropriate team members.
 
+![image](https://github.com/user-attachments/assets/3240a620-db5b-4f86-ab27-4ba8b85ee319)
+![image](https://github.com/user-attachments/assets/8c3460a1-88bb-4709-a3dd-ffeb498b5737)
+
+
 
